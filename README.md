@@ -2,8 +2,8 @@
 
 ## プラットフォーム(言語)を選択してください
 
-### [iOS(Objecitve-C)](/Objc.md)
+### [iOS(Objecitve-C)](/Objecive-C.md)
 ### [iOS(Swift)](/Swift.md)
 ### [Android(Java)](/Android.md)
 ### [Monaca(JavaScript)](/Monaca.md)
-### [Unity(C#)](/unity/md)
+### [Unity(C#)](/Unity.md)
